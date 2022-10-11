@@ -32,7 +32,7 @@ while 1<=n:
     n-=10
     t.circle(n)
 t.right(90)
-t.foeward(20)
+t.forward(20)
 n=100
 while 1<=n:
     n-=10
